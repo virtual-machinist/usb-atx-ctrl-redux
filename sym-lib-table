@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Custom_Parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/custom.kicad_sym")(options "")(descr ""))
+  (lib (name "Relay_Panasonic_PhotoMOS")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/photomos.kicad_sym")(options "")(descr ""))
+)
