@@ -1,0 +1,8 @@
+*-backups
+*.kicad_prl
+*.bak
+*.net
+fp-info-cache
+\#auto_saved_files\#
+_autosave-*
+*.xml
