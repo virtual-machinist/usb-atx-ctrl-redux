@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.11-2627ca5db0~126~ubuntu22.04.1*
-G04 #@! TF.CreationDate,2023-03-28T23:40:33+03:00*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,8.0.9-8.0.9-0~ubuntu22.04.1*
+G04 #@! TF.CreationDate,2025-12-26T22:23:03+02:00*
 G04 #@! TF.ProjectId,usb-atx-ctrl-redux,7573622d-6174-4782-9d63-74726c2d7265,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu22.04.1) date 2023-03-28 23:40:33*
+G04 Created by KiCad (PCBNEW 8.0.9-8.0.9-0~ubuntu22.04.1) date 2025-12-26 22:23:03*
 %MOMM*%
 %LPD*%
 G01*
@@ -82,8 +82,8 @@ D14*
 X123012200Y-82731600D03*
 X123012200Y-84556600D03*
 D16*
-X138547100Y-90734200D03*
 X127117100Y-90734200D03*
+X138547100Y-90734200D03*
 D17*
 X128387100Y-84384200D03*
 D18*
