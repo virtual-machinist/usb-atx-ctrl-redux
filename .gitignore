@@ -1,3 +1,5 @@
+.idea
+out
 *-backups
 *.kicad_prl
 *.kicad_*.lck
